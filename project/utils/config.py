@@ -1,6 +1,6 @@
 from project.utils import load_config
 
-project = 'my_project'
+project = 'eurostat_mapping'
 
 config_data = load_config.load_config(project)
 
